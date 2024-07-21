@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad Kailas Kadam</h1>
-<h3 align="center">Computer Science Student | Software Engineer</h3>
+<h3 align="center">CS Student | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadkadam03&label=Profile%20views&color=0e75b6&style=flat" alt="prasadkadam03" /> </p>
 
