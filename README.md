@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Prasad Kadam from Nashik<br><br>- 🔭 I’m working as frontend devoloper intern<br>- 📚 I'm currently learning Devops<br>-  😴 In my free time I sleep</p>
+<p align="left">I'm Prasad Kadam from Nashik<br><br>- 🔭 I’m working as frontend devoloper intern<br>- 📚 I'm currently learning Devops<br>
 
 ###
 
